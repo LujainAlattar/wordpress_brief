@@ -1,0 +1,9 @@
+2023-07-07T19:03:06+00:00 ERROR API error: Array
+(
+    [url] => https://api-m.paypal.com/v2/checkout/orders
+    [method] => GET
+    [http_status] => 404
+    [request] => 
+    [error] => 
+)
+
